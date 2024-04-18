@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=loversjourney
+POSTGRES_USER=uoAHKonxXWoqCeHKpMhDaCTzHRXEDghl
+POSTGRES_PASSWORD=Bfi3jcPXBVzDVkfgeHII53RwcmZC5zU9lNLA6RRGqMX7nTepaxRbbK1zJEAAVWue
