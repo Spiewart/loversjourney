@@ -69,6 +69,12 @@ WAGTAIL = [
     "wagtail",
     "modelcluster",
     "taggit",
+    # Required for Puput
+    "wagtail.contrib.sitemaps",
+    "wagtail.contrib.routable_page",
+    "django_social_share",
+    "puput",
+    "colorful",
 ]
 
 DJANGO_APPS = [
@@ -288,3 +294,4 @@ SOCIALACCOUNT_FORMS = {"signup": "loversjourney.users.forms.UserSocialSignupForm
 # Your stuff...
 WAGTAIL_SITE_NAME = "loversjourney"
 WAGTAILADMIN_BASE_URL = "https://loversjourney"
+PUPUT_AS_PLUGIN = True
